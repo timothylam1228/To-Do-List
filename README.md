@@ -45,13 +45,18 @@ To set up and run the project, follow these steps:
 - **Add Tasks**: You can add new tasks by entering a task title in the input field and clicking the "Add" button.
   ![Alt text](src/assets/readme/input.png "Title")
 
-- **Update Tasks**: To update a task's title, click on the task you want to edit, make your changes, and press the "Save" button.
-
-- **Delete Tasks**: To remove a task, click the "Delete" button next to the task you want to delete.
+- **Update Tasks**: To update a task's title, click on the task you want to edit, make your changes unfocus the text, then the new title will be saved.
+  ![Alt text](src/assets/readme/edit.png "Title")
+- **Delete Tasks**: To remove a task, click the "X" button next to the task you want to delete.
+  ![Alt text](src/assets/readme/delete.png "Title")
 
 - **View Tasks**: All your tasks are displayed in a list format.
+  ![Alt text](src/assets/readme/complete.png "Title")
 
 - **No Todos Found**: If there are no tasks, a message "No todos found" is displayed.
+
+## Demo
+  ![Alt text](src/assets/readme/demo.gif "Title")
 
 ### 2. Local Storage
 
