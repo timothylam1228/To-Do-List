@@ -8,7 +8,7 @@ export default defineConfig({
     open: true,
   },
   build: {
-    outDir: "build",
+    outDir: "dist",
     sourcemap: true,
   },
   test: {
@@ -17,4 +17,5 @@ export default defineConfig({
     setupFiles: "src/setupTests",
     mockReset: true,
   },
+  base: "/",
 })
